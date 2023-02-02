@@ -1,6 +1,8 @@
-# Ignore Mac system files
+# Ignore files
 .DS_store
 
 .iso
 
 .img
+
+.pages
